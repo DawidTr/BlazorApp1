@@ -6,7 +6,7 @@
     },
     {
       "hash": "sha256-LOq52qjRa3+zt3w4UL10rS3UdwHxVQxW0JAsMPO9QAM=",
-      "url": "_framework\/dotnet.6.0.0.wjsaump7ln.js"
+      "url": "_framework\/dotnet.6.0.0.i93u7tlckd.js"
     },
     {
       "hash": "sha256-MSlKZuLHfzsKLVF\/3omAUcZ57QL0puRif12PGTAXwDY=",
@@ -33,11 +33,11 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-oifP21R9ii10NmznHnRHWxhbsAxe6YC51Oz6\/ramvls=",
+      "hash": "sha256-JZhm101nUbc9VRIhkh2Bn+ct838Zde+NFiVW3K\/tjTU=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-a61+cyvyaHrpAmQRBHnkS\/7Idbj2XPYndmKIpIw90nA=",
+      "hash": "sha256-UokBcth8g4Z\/e5mGn7tuEDFhHtWdDMWmm9lZNk7nqTk=",
       "url": "_framework\/BlazorApp1.dll"
     },
     {
@@ -149,11 +149,11 @@
       "url": "_framework\/System.Text.Json.dll"
     },
     {
-      "hash": "sha256-rx5d56gTx3m25wyli8ExB2VJ4qsRHElhN0g192qC258=",
+      "hash": "sha256-q4aoMu7BkJmfNc\/+GtDmvuhYwRzgS1LVndENI7XTRyo=",
       "url": "BlazorApp1.styles.css"
     },
     {
-      "hash": "sha256-xsWVWPFTqdhjg4aNDUOOdBTQ6P+Nbv2r8890yGRnZMw=",
+      "hash": "sha256-8d9UFm+g8A8hjanzR3uS2oyh7LwOBsMOJR+8I2g7jtM=",
       "url": "css\/app.css"
     },
     {
@@ -165,7 +165,7 @@
       "url": "css\/bootstrap\/bootstrap.min.css.map"
     },
     {
-      "hash": "sha256-jA4J4h\/k76zVxbFKEaWwFKJccmO0voOQ1DbUW+5YNlI=",
+      "hash": "sha256-+Q44zfEaCMmXduni5Td+IgCbk8sSUQwES2nWs+KKQz0=",
       "url": "css\/open-iconic\/FONT-LICENSE"
     },
     {
@@ -181,7 +181,7 @@
       "url": "css\/open-iconic\/font\/fonts\/open-iconic.otf"
     },
     {
-      "hash": "sha256-+P1oQ5jPzOVJGC52E1oxGXIXxxCyMlqy6A9cNxGYzVk=",
+      "hash": "sha256-oUpLdS+SoLJFwf4bzA3iKD7TCm66oLkTpAQlVJ2s1wc=",
       "url": "css\/open-iconic\/font\/fonts\/open-iconic.svg"
     },
     {
@@ -193,11 +193,11 @@
       "url": "css\/open-iconic\/font\/fonts\/open-iconic.woff"
     },
     {
-      "hash": "sha256-aF5g\/izareSj02F3MPSoTGNbcMBl9nmZKDe04zjU\/ss=",
+      "hash": "sha256-s\/Is6Ey6jfNAEfXUIOyHrXXX+RcA8hzchYnuOIWUMl4=",
       "url": "css\/open-iconic\/ICON-LICENSE"
     },
     {
-      "hash": "sha256-p\/oxU91iBE+uaDr3kYOyZPuulf4YcPAMNIz6PRA\/tb0=",
+      "hash": "sha256-9wdNXQFE78LCNHo+Hq2eXMTx+YBf2gjsufVTJc8dAV0=",
       "url": "css\/open-iconic\/README.md"
     },
     {
@@ -217,17 +217,17 @@
       "url": "Images\/jeremy-wong-weddings-464ps_nOflw-unsplash.jpg"
     },
     {
-      "hash": "sha256-Ccj4EWgLtCwkOXHy2veVOGilBF0fI8BLzV+zQrNifUM=",
+      "hash": "sha256-K5QwNv0TMLRg9ItiFYyyWmIDd8Gjb8PsVVAfXleQ\/DA=",
       "url": "index.html"
     },
     {
-      "hash": "sha256-fwBtNgRJk2tjC8OmwvbQmUGfx5nOytgMl9xkk4mPTIo=",
+      "hash": "sha256-GrQLXs98SWMysmY2XFQnkpM5SaVXQyRQxUCHKxBH9qk=",
       "url": "js\/base.js"
     },
     {
-      "hash": "sha256-mPIXJ7rM21ZdiDMG5MhOGWQkyqMqxakiLV6Yn3qMvMA=",
+      "hash": "sha256-qgaP4fyShsDkJeVq\/MieHlhmAlRbasA47c0AKPDpnfo=",
       "url": "manifest.json"
     }
   ],
-  "version": "L3yJYcrU"
+  "version": "uj8OXLeV"
 };
