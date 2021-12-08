@@ -4,7 +4,7 @@
         hour = minute * 60,
         day = hour * 24;
 
-    var weddingday = "08/24/2023";
+    var weddingday = "08/14/2023";
 
     const countDown = new Date(weddingday).getTime(),
         x = setInterval(function () {
