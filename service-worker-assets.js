@@ -9,35 +9,15 @@
       "url": "_framework\/dotnet.6.0.0.i93u7tlckd.js"
     },
     {
-      "hash": "sha256-MSlKZuLHfzsKLVF\/3omAUcZ57QL0puRif12PGTAXwDY=",
-      "url": "_framework\/dotnet.timezones.blat"
-    },
-    {
       "hash": "sha256-GuySSCXngMFRsFNXg0w0zohV31TNKJ+mSSGKRqubLbA=",
       "url": "_framework\/dotnet.wasm"
     },
     {
-      "hash": "sha256-WPyI4hWDPnOw62Nr27FkzGjdbucZnQD+Ph+GOPhAedw=",
-      "url": "_framework\/icudt_CJK.dat"
-    },
-    {
-      "hash": "sha256-4RwaPx87Z4dvn77ie\/ro3\/QzyS+\/gGmO3Y\/0CSAXw4k=",
-      "url": "_framework\/icudt_EFIGS.dat"
-    },
-    {
-      "hash": "sha256-OxylFgLJlFqixsj+nLxYVsv5iZLvfIKMpLf9hrWaChA=",
-      "url": "_framework\/icudt_no_CJK.dat"
-    },
-    {
-      "hash": "sha256-Zuq0dWAsBm6\/2lSOsz7+H9PvFaRn61KIXHMMwXDfvyE=",
-      "url": "_framework\/icudt.dat"
-    },
-    {
-      "hash": "sha256-zZbO6cRkoi2okZKwNT0XlxJ3eeOC8WE\/aWpxTMAWkS8=",
+      "hash": "sha256-RRB+7Yc16UuZy1jeTTReE0IEOrEExgVD6tVSEV3h++s=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-OfC7RrNK+UeRaxbUT8Zu+q1SSnJJAPoQ0HlaL1XjHp4=",
+      "hash": "sha256-2Dqowmpq8DHxBZAQMqMjB6ggLo4mgO+vt3UBGpwC+io=",
       "url": "_framework\/BlazorApp1.dll"
     },
     {
@@ -121,7 +101,7 @@
       "url": "_framework\/System.Net.Primitives.dll"
     },
     {
-      "hash": "sha256-A4WUKfPIRXwpCOgE\/bl7DRh+b2iRxYivl6p4a+XGI6o=",
+      "hash": "sha256-vJW4ZVDimaTX4N2a3U04R2gVpCwuFRTz7ZV+IGlfh\/c=",
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
@@ -213,10 +193,6 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-z8JD8HPh2sgUUHHu9fujt3v2kl4qHLG2ucAYXJMyPEM=",
-      "url": "Images\/jeremy-wong-weddings-464ps_nOflw-unsplash4.jpg"
-    },
-    {
       "hash": "sha256-XxID4t\/AZGFz0JD\/CCO8bWA42l9Q8Ezevl1HTJUX6XU=",
       "url": "Images\/jeremy-wong-weddings-464ps_nOflw-unsplash5.jpg"
     },
@@ -233,5 +209,5 @@
       "url": "manifest.json"
     }
   ],
-  "version": "tCLvwOV6"
+  "version": "5nwDqxzo"
 };
