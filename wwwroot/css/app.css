@@ -65,7 +65,7 @@ a, .btn-link {
 
 img {
     display: block;
-    min-height: 300px;
+    min-height: 250px;
 }
 
 .img-content {
@@ -122,6 +122,26 @@ p {
         display: block;
         font-size: 4.5rem;
     }
+
+@media (min-width: 0){
+    .img-content-bottom{
+        top: 80%;
+    }
+
+    .timer-li{
+        padding:5px;
+    }
+}
+
+@media (min-width: 415px){
+    .img-content-bottom {
+        top: 92%;
+    }
+
+    .timer-li {
+        padding: 16px;
+    }
+}
 
 @media all and (max-width: 768px) {
     .timer-headline {

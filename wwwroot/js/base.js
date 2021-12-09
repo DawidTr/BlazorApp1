@@ -12,6 +12,9 @@
             const now = new Date().getTime(),
                 distance = countDown - now;
 
+            if (document.getElementById("days") == null)
+                return;
+
             document.getElementById("days").innerText = Math.floor(distance / (day)),
                 document.getElementById("hours").innerText = Math.floor((distance % (day)) / (hour)).toString().padStart(2, "0"),
                 document.getElementById("minutes").innerText = Math.floor((distance % (hour)) / (minute)).toString().padStart(2, "0"),
