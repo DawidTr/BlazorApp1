@@ -33,11 +33,11 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-y43SIafBTXwBmDzCO2EnXwgMQNL5kntQLz7POmaE7hg=",
+      "hash": "sha256-zZbO6cRkoi2okZKwNT0XlxJ3eeOC8WE\/aWpxTMAWkS8=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-unoWPItkSN+yIFPHjMKImfJEpEwGImYHj7qiXRYxw4I=",
+      "hash": "sha256-OfC7RrNK+UeRaxbUT8Zu+q1SSnJJAPoQ0HlaL1XjHp4=",
       "url": "_framework\/BlazorApp1.dll"
     },
     {
@@ -153,7 +153,7 @@
       "url": "BlazorApp1.styles.css"
     },
     {
-      "hash": "sha256-AQduC7T8xFIoJsqAPdwugj7A6XgChRRPIikfd0qpR34=",
+      "hash": "sha256-CMn\/kiSdG54vJ927XOSL03lqYSJFP9mayXcWm6IboCc=",
       "url": "css\/app.css"
     },
     {
@@ -213,15 +213,19 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-fMKCxMJbkB4W3uAHOtsFMMzNeEfXmO7G8lgW0QG6kKM=",
-      "url": "Images\/jeremy-wong-weddings-464ps_nOflw-unsplash.jpg"
+      "hash": "sha256-z8JD8HPh2sgUUHHu9fujt3v2kl4qHLG2ucAYXJMyPEM=",
+      "url": "Images\/jeremy-wong-weddings-464ps_nOflw-unsplash4.jpg"
     },
     {
-      "hash": "sha256-K5QwNv0TMLRg9ItiFYyyWmIDd8Gjb8PsVVAfXleQ\/DA=",
+      "hash": "sha256-XxID4t\/AZGFz0JD\/CCO8bWA42l9Q8Ezevl1HTJUX6XU=",
+      "url": "Images\/jeremy-wong-weddings-464ps_nOflw-unsplash5.jpg"
+    },
+    {
+      "hash": "sha256-fERv3j1uvrw67P6+u3V\/O+QvtjMNYn8\/Bnq0GD9A+C0=",
       "url": "index.html"
     },
     {
-      "hash": "sha256-\/kpudSM\/q3Tzq8vMrOJ+FW+O8NF4bADZmZwNcMpY9LY=",
+      "hash": "sha256-smQ8EiYR9vyoct9JiDp5i+pghEmJ2PWJEEojOOHEYuI=",
       "url": "js\/base.js"
     },
     {
@@ -229,5 +233,5 @@
       "url": "manifest.json"
     }
   ],
-  "version": "woF+4N1v"
+  "version": "tCLvwOV6"
 };
