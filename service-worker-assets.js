@@ -153,7 +153,7 @@
       "url": "BlazorApp1.styles.css"
     },
     {
-      "hash": "sha256-8d9UFm+g8A8hjanzR3uS2oyh7LwOBsMOJR+8I2g7jtM=",
+      "hash": "sha256-AQduC7T8xFIoJsqAPdwugj7A6XgChRRPIikfd0qpR34=",
       "url": "css\/app.css"
     },
     {
@@ -229,5 +229,5 @@
       "url": "manifest.json"
     }
   ],
-  "version": "Yh\/itTOn"
+  "version": "woF+4N1v"
 };
